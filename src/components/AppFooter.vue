@@ -1,20 +1,12 @@
-<script>
-export default {
-    data() {
-        return {
-            message:'Footer',
-        }
-    }
-}
-</script>
-
-
 <template>
-    <div>
-        <h2>{{ message }}</h2>
-    </div>
+    <footer>FOOTER</footer>
 </template>
 
+<script>
+    export default {
+        
+    }
+</script>
 
 <style lang="scss" scoped>
 

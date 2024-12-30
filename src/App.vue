@@ -1,21 +1,21 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
-import AppFooter from './components/AppFooter.vue';
-import AppMain from './components/AppMain.vue'; 
+import AppMain from './components/AppMain.vue';
+import AppFooter from './components/AppFooter.vue'
 
 export default {
   components: {
     AppHeader,
     AppMain,
-    AppFooter,
+    AppFooter
   }
 };
 </script>
 
 <template>
   <AppHeader/>
-  <AppMain/> 
-  <AppFooter/> 
+ <AppMain/>
+ <AppFooter/>
 </template>
 
 <style lang="scss">
