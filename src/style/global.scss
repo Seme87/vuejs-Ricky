@@ -1,0 +1,21 @@
+/* global.scss */
+
+/* Importa le tue variabili PRIMA di tutto */
+@import './partials/_variables';
+
+/* Importa le funzioni di Bootstrap */
+@import "bootstrap/scss/functions";
+
+/* Importa i mixin di Bootstrap */
+@import "bootstrap/scss/mixins";
+
+/* Importa Bootstrap completo */
+@import "bootstrap/scss/bootstrap";
+
+/* Importa i tuoi partials */
+@import './partials/_reset';
+@import './partials/_mixins';
+@import './partials/_layout';
+@import './partials/_typography';
+
+

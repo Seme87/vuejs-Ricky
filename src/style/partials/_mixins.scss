@@ -1,0 +1,14 @@
+/*____________________
+       MIXINS
+_____________________*/
+
+@mixin marginAuto {
+    margin: 0 auto;
+}
+
+
+// mixin rules Background image
+@mixin ms-bg-image($url) {
+    background-image: url($url);
+    background-position: center;
+}
