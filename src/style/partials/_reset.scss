@@ -16,9 +16,14 @@ body{
     background-color: $ms-color-secondary;
 }
 
+
 .card-footer{
     background-color: inherit;
     border: none;
     padding: 0;
     
+}
+
+.helper-border{
+    border: 1px solid red;
 }

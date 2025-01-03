@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram name="Pagina-1" id="lxEEOmlffgaohQc2eWTV">
+        <mxGraphModel dx="1214" dy="1230" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="TibZBH347mJV-R5Tvhds-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="264" width="828" height="756" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-2" value="&lt;b&gt;AppHeader.vue&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="291" y="324" width="576" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-5" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="291" y="420" width="585" height="456" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-7" value="&lt;b&gt;AppFooter.vue&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="288" y="912" width="582" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-8" value="&lt;b&gt;SeacrchBar.vue&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" parent="1" vertex="1">
+                    <mxGeometry x="348" y="468" width="470.99" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="348" y="540" width="469.5" height="264" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-10" value="SectionCharacters.vue&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="557.62" y="555" width="66.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-11" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="585" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-14" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="522" y="585" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-15" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="585" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-16" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="684" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-17" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="684" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-18" value="CardCharacter.vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fontColor=#000000;fillColor=#fa6800;" parent="1" vertex="1">
+                    <mxGeometry x="522" y="684" width="120" height="87" as="geometry"/>
+                </mxCell>
+                <mxCell id="TibZBH347mJV-R5Tvhds-19" value="&lt;b&gt;AppMain.vue&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="552.75" y="432" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

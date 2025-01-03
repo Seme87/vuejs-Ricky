@@ -13,9 +13,11 @@ export default {
 </script>
 
 <template>
-  <AppHeader/>
- <AppMain/>
- <AppFooter/>
+  <div class="wrapped d-flex flex-column">
+    <AppHeader/>
+    <AppMain/>
+    <AppFooter/>
+  </div>
 </template>
 
 <style lang="scss">
